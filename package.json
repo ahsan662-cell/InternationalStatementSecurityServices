@@ -1,0 +1,43 @@
+{
+  "name": "iss-statement-security",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.109.2",
+    "@react-three/fiber": "^8.16.8",
+    "@tsparticles/engine": "^3.9.1",
+    "@tsparticles/react": "^3.0.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.3.19",
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.9",
+    "next": "14.2.5",
+    "ogl": "^1.0.11",
+    "react": "^18",
+    "react-bits": "^1.0.5",
+    "react-dom": "^18",
+    "resend": "^6.9.4",
+    "three": "^0.166.1",
+    "toast": "^0.5.4",
+    "tsparticles": "^3.9.1",
+    "tsparticles-engine": "^2.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/three": "^0.166.0",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
